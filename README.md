@@ -41,4 +41,7 @@ public class Character {
 }
 
 
-# UML
+# UML DIAGRAM
+
+![CommandPattern - Page 9](https://github.com/NorielAchero/strategyPattern/assets/142378544/16b41e45-506c-43b7-bde1-bbdba539c001)
+
